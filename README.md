@@ -3,54 +3,85 @@
 # Antinuke Commands
 
 an bot [on/off] (Prevents users from adding bot users to the guild.)
+
 an role [on/off] (Prevents users from adding or deleting roles to and from the guild.)
+
 an ban [on/off] (Prevents users from banning members from the guild.)
+
 an kick [on/off] (Prevents users from kicking members from the guild.)
+
 an webhook [on/off] (Prevents users from adding webhooks to the guild.)
+
 an channel [on/off] (Prevents users from adding channels or deleting to and from the guild.)
+
 an whitelist [on/off] (Add a user to the antinuke whitelist.)
+
 an unwhitelist [on/off] (Remove a user from the antinuke whitelist.)
+
 an whitelistrole [on/off] (Add a role to the antinuke whitelist.)
+
 an admin [user] (Add a user to the antinuke admins list.)
+
 an logchannel [channelid] (Sets the antinuke logging channel.)
+
 an vanity [on/off] (Prevents the guilds vanity url from being stolen during a nuke.)
+
 an permissions
 an permslist 
 an admins (View the members who can manage the antinuke.)
+
 an whitelisted (View the members whitelisted on the antinuke.)
+
 an config (Displays how the antinuke is setup.)
 
 # Antiraid Commands
 
 ar newacc [on/off] (Prevents brand new accounts from joining the guild.)
+
 ar defaultpfp [on/off] (Prevents accounts with default profile pictures from joining the guild.)
+
 ar whitelist (Add a user to the antiraid whitelist.)
+
 ar unwhitelist (Remove a user from the antiraid whitelist.)
+
 ar config (Displays how the antiraid is setup.)
+
 ar whitelisted (View the members whitelisted on the antiraid.)
 
 # Emote Commands
 
 e <emote> (Previews an emote.)
+  
 adde <emote/image link> (Adds an emote to the guild.)
+  
 de <emote> (Deletes an emoji from the guild.)
 
 # Filter Commands
 
 filter add <word> (Blacklist words from being sent.)
+  
 filter remove <word> (Remove a word from the blacklisted words list.)
+  
 filter list (Shows the list of filtered words.)
+  
 filter spamlimit <number> (Prevent your server from being raided with spam.)
+  
 filter invites (Prevent your server from being raided with invites.)
+  
 filter links (Prevent your server from being raided with links.)
+  
 filter snipe (Makes the snipe command ignore filtered words.)
+  
 filter exempt <role> (Allows a role to be able to bypass the filter.)
 
 # Fun Commands
 
-t2s (Send Text to speech messages as an mp3.)
+  t2s (Send Text to speech messages as an mp3.)
+  
 fmessage (Provides a link to the first message in current or provided channel.)
+  
 choose <options> (Chooses between 2 options.)
+  
 cf (Flips a coin.)
 rps (Play Rock Paper Scissors.)
 wizz (Sends a fake wizz message.)
