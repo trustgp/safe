@@ -2,8 +2,7 @@
 
 Antinuke Commands
 
-an bot [on/off] (Prevents users from adding bot users to the guild.)
-
+#an bot [on/off] (Prevents users from adding bot users to the guild.)
 an role [on/off] (Prevents users from adding or deleting roles to and from the guild.)
 an ban [on/off] (Prevents users from banning members from the guild.)
 an kick [on/off] (Prevents users from kicking members from the guild.)
