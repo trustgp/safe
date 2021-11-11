@@ -1,8 +1,8 @@
 # safe
 
-Antinuke Commands
+# Antinuke Commands
 
-# an bot [on/off] (Prevents users from adding bot users to the guild.)
+an bot [on/off] (Prevents users from adding bot users to the guild.)
 an role [on/off] (Prevents users from adding or deleting roles to and from the guild.)
 an ban [on/off] (Prevents users from banning members from the guild.)
 an kick [on/off] (Prevents users from kicking members from the guild.)
@@ -20,7 +20,7 @@ an admins (View the members who can manage the antinuke.)
 an whitelisted (View the members whitelisted on the antinuke.)
 an config (Displays how the antinuke is setup.)
 
-Antiraid Commands
+# Antiraid Commands
 
 ar newacc [on/off] (Prevents brand new accounts from joining the guild.)
 ar defaultpfp [on/off] (Prevents accounts with default profile pictures from joining the guild.)
@@ -29,13 +29,13 @@ ar unwhitelist (Remove a user from the antiraid whitelist.)
 ar config (Displays how the antiraid is setup.)
 ar whitelisted (View the members whitelisted on the antiraid.)
 
-Emote Commands
+# Emote Commands
 
 e <emote> (Previews an emote.)
 adde <emote/image link> (Adds an emote to the guild.)
 de <emote> (Deletes an emoji from the guild.)
 
-Filter Commands
+# Filter Commands
 
 filter add <word> (Blacklist words from being sent.)
 filter remove <word> (Remove a word from the blacklisted words list.)
@@ -46,7 +46,7 @@ filter links (Prevent your server from being raided with links.)
 filter snipe (Makes the snipe command ignore filtered words.)
 filter exempt <role> (Allows a role to be able to bypass the filter.)
 
-Fun Commands
+# Fun Commands
 
 t2s (Send Text to speech messages as an mp3.)
 fmessage (Provides a link to the first message in current or provided channel.)
@@ -56,7 +56,7 @@ rps (Play Rock Paper Scissors.)
 wizz (Sends a fake wizz message.)
 img (Search the web.)
 
-Info Commands
+# Info Commands
 
 inv (Sends bot invite along with the support server invite.)
 ping (Shows safe's ping)
@@ -76,7 +76,7 @@ roles (Shows how many roles are in the guild.)
 icon (Shows the guilds icon.)
 sbanner (Shows the guilds banner.)
 
-Misc Commands
+# Misc Commands
 
 afk (Go afk dood.)
 snipe (Snipes a deleted image or message.)
@@ -86,7 +86,7 @@ ce (Creates an embed.)
 support (Sends the support server invite.)
 poll (Create a quick poll.)
 
-Moderation Commands
+# Moderation Commands
 
 setup jail (Setup the jail system.)
 unsetup jail (Unsetup the jail system.)
