@@ -59,6 +59,13 @@ adde <emote/image link> (Adds an emote to the guild.)
   
 de <emote> (Deletes an emoji from the guild.)
   
+# Welcome Commands
+
+settings welcchannel (Set the welcoming channel.)
+
+settings welcome (Setup a welcome message for when users join.)
+
+settings welcome remove (Remove the welcome setup.)
 
 # Filter Commands
 
@@ -183,6 +190,8 @@ support (Sends the support server invite.)
 poll (Create a quick poll.)
 
 # Moderation Commands
+
+set prefix (Change the prefix used in the guild.)
 
 setup jail (Setup the jail system.)
   
