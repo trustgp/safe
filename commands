@@ -27,7 +27,9 @@ an logchannel [channelid] (Sets the antinuke logging channel.)
 an vanity [on/off] (Prevents the guilds vanity url from being stolen during a nuke.)
 
 an permissions
+
 an permslist 
+
 an admins (View the members who can manage the antinuke.)
 
 an whitelisted (View the members whitelisted on the antinuke.)
@@ -48,6 +50,7 @@ ar config (Displays how the antiraid is setup.)
 
 ar whitelisted (View the members whitelisted on the antiraid.)
 
+
 # Emote Commands
 
 e <emote> (Previews an emote.)
@@ -55,6 +58,7 @@ e <emote> (Previews an emote.)
 adde <emote/image link> (Adds an emote to the guild.)
   
 de <emote> (Deletes an emoji from the guild.)
+  
 
 # Filter Commands
 
@@ -89,6 +93,42 @@ rps (Play Rock Paper Scissors.)
 wizz (Sends a fake wizz message.)
   
 img (Search the web.)
+  
+ig <username> (Shows the stats of the mentioned instagram username.)
+  
+twitter <username> (Shows the stats of the mentioned twitter username.)
+
+# Lastfm Commands
+  
+lf set <username> (Sets your username.)
+  
+lf unset (Unesets your username.)
+  
+lf p (View you or another users Last.fm profile.)
+  
+lf hex <hexcolor> (Set your custom nowplaying embed color.)
+  
+lf up (Set your custom nowplaying upvote reaction.)
+  
+lf down (Set your custom nowplaying downvote reaction.)
+  
+fm (View your current playing track via Last.fm)
+  
+lf playst (shows how much plays you have for a track via Last.fm)
+  
+lf wk (View your and other members' in the guild's artist stats.)
+  
+lf sp (Shows what you or the mentioned user is listening to on spotify.)
+  
+lf cover (Shows the cover art of the song you're listening to.)
+  
+lf tar (Shows your top artist.)
+  
+lf tt (Shows your top tracks.)
+  
+lf ta (Shows your top albums.)
+  
+lf re (Shows your recently listened to songs.)
 
 # Info Commands
 
